@@ -1,6 +1,23 @@
-.env
-.env.*
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Logs
 *.log
-node_modules/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
+
