@@ -1,3 +1,0 @@
-# nemesis binance master
-API_KEY = 'bAWhhNgDfsoaxdRBXuvr1RY8cxHDMJlLrV2lcdSP6ZHcMqT4DVyeXlVaV8OD4vh9'
-API_SECRET = 'ehArDYSg4hx3l3QLudKHyqXba3mWX90eDuiLItMd0zIRuWlk8knwlhuUUhDDeXmS'
